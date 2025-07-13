@@ -5,13 +5,13 @@
 layout: home
 ---
 
-# Welcome to Edward Jansen's Research Site
+# Welcome to Jansen Research
 ### Documentation of concepts and research
 
-From a young age, I've been fascinated by the potential of science to solve some of the world's most complex problems. My journey into physics, particularly superconductors, began with a simple question: how can we create materials that revolutionize our energy systems?
+*A platform to share research, tools, and insights in condensed matter physics and materials discovery.*
 
-Energy is precious, and the quest to find efficient, sustainable solutions is more urgent than ever. This passion drives my research into superconductors, as they hold the key to transforming how we store, transmit, and use energy in the future.
+I'm Edward Jansen, a physics PhD student at Stony Brook University focused on the discovery of next generation materials. Over the past few years, I've contributed to research projects in both experimental and theoretical condensed matter physics alongside faculty and collaborators in academic and national lab settings, focusing on emergent phenomena in strongly correlated systems.
 
-Superconductors are a material that— under certain conditions— harness the ability to conduct electricity without resistance. The issue: these conditions are often impractical to achieve, such as temperatures close to absolute zero or pressures upwards of hundreds of gigapascals. With recent innovations in artificial intelligence, there is an immense opportunity to study vast amounts of data and reveal insights and correlations underlying the theory of superconductivity. This is the focus of my research, and as I look towards a graduate school that aligns with my objectives, I aim to deepen my expertise in materials science and superconductivity while leveraging cutting edge models, techniques, and theories to push the boundaries of this field.
+Understanding and controlling emergent phenomena in materials is essential for addressing global challenges. Progress in quantum materials is key to developing technologies for energy efficiency, high-performance computing, and the precise detection of of magnetic fields. This platform serves as a record of my past and current research, and a space to share future directions as I journey to the frontiers of materials science.
 
-I intend to use this site as a research portfolio—a place to document my work and share knowledge with others who share my interests. As an undergraduate at Adelphi University preparing for graduate school, I hope this site will also serve as a platform to connect with like-minded researchers and showcase my journey in materials science and superconductivity.
+*"Alea iacta est."*
